@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-25T16:16:08 IST" name="Selenium_TestNg by packages" finished-at="2023-09-25T16:16:08 IST" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2023-09-25T16:16:08 IST" name="Selenium_TestNg.Selenium_TestNg" finished-at="2023-09-25T16:16:08 IST" duration-ms="26">
+    </test> <!-- Selenium_TestNg.Selenium_TestNg -->
+  </suite> <!-- Selenium_TestNg by packages -->
+</testng-results>
